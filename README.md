@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/llama-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Llama de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-miel/) |
+| **Get License** | [Request Licensing for Llama de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú eres la chispa que enciende mi noche,
+> Una llama de miel, dulce y sin reproche,
+> Me tienes adicto, perdiendo el control,
+> Con ese veneno que le das a mi corazón.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
