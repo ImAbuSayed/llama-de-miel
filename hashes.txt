@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Llama de miel
+
+This log tracks the cryptographic history and versioning for the song **Llama de miel** (llama-de-miel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T13:08:43.170982 | `v1` | `ec394e3a012e2ca8f8aba40f3ee4756dd49d9594884929db3ac712ccebd51862` | `68da46d369dbe2ef75898160f5bdf45f9fce24e0392bb3c657bd04b68bb3c5d4` | `2026-06-24_llama-de-miel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

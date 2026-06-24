@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/llama-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Llama de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-miel/) |
+| **Get License** | [Secure Licensing Rights for Llama de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ec394e3a012e2ca8f8aba40f3ee4756dd49d9594884929db3ac712ccebd51862` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
